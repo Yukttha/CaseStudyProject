@@ -1,7 +1,7 @@
 <h1>Case Study Project</h1>
 
 <h2>Description</h2>
-This business analytics project was a final project that was assigned at the end of the end term, where I showcased my R coding skills learned throughout the semester. 
+This business analytics project was a final project that was assigned at the end of the end term, where I used my R coding skills learned throughout the semester. 
 <br />
 
 <h2>Languages and Utilities Used</h2>
